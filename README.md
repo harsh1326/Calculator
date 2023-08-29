@@ -1,1 +1,1 @@
-# Calculator   https://harsh1326.github.io/Calculator/
+Open -> https://harsh1326.github.io/Calculator/
